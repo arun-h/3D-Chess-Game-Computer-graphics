@@ -52,9 +52,9 @@ To get started with the 3D Chess Game on your local machine, follow these steps:
 
 This project was created by:
 
-* Arun Hiremath 
-* Anusha Ajagond 
-* Amay Halemani 
+* Arun H
+* Anusha A 
+* Amay H
 
 
 
