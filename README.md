@@ -35,15 +35,18 @@ To get started with the 3D Chess Game on your local machine, follow these steps:
    git clone https://github.com/arun-h/3D-Chess-Game-Computer-graphics.git
    ```
 
-2. Open the "che.cbp" file in your preferred development environment.
-
 ## Usage
 
-1. Run the project to launch the 3D Chess Game.
+1. To launch the 3D Chess Game, simply double-click the `che.cbp` file in the project directory.
 
-2. Use the mouse and keyboard arrow keys to interact with the 3D chessboard.
+2. Interact with the game using the following steps:
+
+   - **Select a Piece**: Left-click on the chess piece you want to move. The selected piece should be highlighted or visually indicated.
+
+   - **Select a Destination**: After selecting a piece, click on the destination square where you want to move the piece. If the move is valid, the piece will be moved to the new position. If the move is not valid, the piece will remain in its original position.
 
 3. Enjoy a challenging game of chess with a friend!
+
 
 ## Contributors
 
